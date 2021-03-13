@@ -6,5 +6,5 @@
 - Github pages - [Profile Card Component](https://dsijakovski98.github.io/profile-card/)
 
 ## 2. FAQ Accordion
-- Repo Link - [https://github.com/dsijakovski98/faq-accordion]
-- Github pages - ADD LINK
+- Repo Link - [faq-accordion](https://github.com/dsijakovski98/faq-accordion)
+- Github pages - [FAQ Accordion Component](https://dsijakovski98.github.io/faq-accordion/)
