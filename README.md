@@ -2,4 +2,9 @@
 
 
 ## 1. Profile Card
-Repo Link - [profile-card](https://github.com/dsijakovski98/profile-card)
+- Repo Link - [profile-card](https://github.com/dsijakovski98/profile-card)
+- Github pages - [Profile Card Component](https://dsijakovski98.github.io/profile-card/)
+
+## 2. FAQ Accordion
+- Repo Link - [https://github.com/dsijakovski98/faq-accordion]
+- Github pages - ADD LINK
