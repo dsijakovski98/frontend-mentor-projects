@@ -8,3 +8,7 @@
 ## 2. FAQ Accordion
 - Repo Link - [faq-accordion](https://github.com/dsijakovski98/faq-accordion)
 - Github pages - [FAQ Accordion Component](https://dsijakovski98.github.io/faq-accordion/)
+
+## 3. Social Proof Section
+- Repo Link - [social-proof-section](https://github.com/dsijakovski98/social-proof-section)
+- Github pages - [Social Proof Section Component](https://dsijakovski98.github.io/social-proof-section/)
